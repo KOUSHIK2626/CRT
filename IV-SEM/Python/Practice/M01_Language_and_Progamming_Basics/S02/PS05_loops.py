@@ -28,4 +28,3 @@ while start <= stop:
     else: 
         print(start)
     start += 1
-n = int(input("Enter a number to find its factorial: "))
